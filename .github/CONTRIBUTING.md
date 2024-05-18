@@ -19,7 +19,7 @@ If you're making changes to a translation, please request a review from our prev
         <td>
            <a href="../translations/README.mr.md">मराठी</a>
         </td>	
-	<td>
+        <td>
            <a href="../translations/README.hne.md">छत्तीसगढ़ी</a>
         </td>    
         <td>
@@ -75,7 +75,7 @@ If you're making changes to a translation, please request a review from our prev
             <a href="https://github.com/smitgajjar">smitgajjar</a>
         </td>
         <td>
-            <a href="https://github.com/ijayhub">ijayhub</a>
+             <a href="https://github.com/ijayhub">ijayhub</a>
         </td>
         
         <td>
