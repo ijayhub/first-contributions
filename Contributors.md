@@ -1845,6 +1845,7 @@ yejashi
 - [Swapnil Nayak] (https://github.com/swapnilnyk10)
 - [Lily Tang](https://github.com/tang305)
 - [Riz Delos Reyes](https://github.com/vantevie)
+- [Ijeoma Igboagu](https://github.com/ijayhub)
 - [Kaustubh Joshi](https://github.com/kaustubhjoshi1910)
 - [Raghav Agrawal](https://github.com/agraghav26)
 - [Christine Amuzie](https://github.com/broaderimpact)
